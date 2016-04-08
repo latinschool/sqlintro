@@ -5,7 +5,9 @@ After file is cloned, cd into the project directory then run this command in ter
 
 	sqlite3 firstdb.db < testdb.mdf
 
-Carefully look at the prewritten code and make sense of it before moving on. Research anything that does not make sense. 
+Carefully look at the prewritten code and make sense of it before moving on. Compare it to what was retuned in terminal. Research anything that does not make sense. 
+
+It may be helpful to turn on the syntax coloring for this. In sublime, go to the view menu > Syntax > open all current extensions as... > SQL
 
 Then, continue with the steps below to write your own sql queries! 
 
