@@ -20,10 +20,13 @@ When this exercise is completed, git add, commit and push your changes. Exercise
 				-- Select all the titles from posts
 				-- Select all the titles AND authors from posts
 				-- Select only the first two records from users
-				
+
 
 	 2) CHANGE A VALUE
 			-- change Caesar's last name to be Castaneda and the email to ccastaneda@latinschool.org
+
+	3) DELETE A RECORD
+			-- delete the first record from the posts table
 
 
 ## BONUS: 
