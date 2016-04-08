@@ -1,7 +1,8 @@
 # SQL INTRO
 Fork & Clone this repository
 
-Look at the prewritten code and understand it. 
+Carefully look at the prewritten code and make sense of it before moving on. Research anything that does not make sense. 
+
 Then, continue with the steps below to write your own sql queries! 
 
 When this exercise is completed, git add, commit and push your changes. Exercise is due at the end of class.
@@ -18,6 +19,8 @@ When this exercise is completed, git add, commit and push your changes. Exercise
 				-- Select the records that have a first name that is ‘caesar’
 				-- Select all the titles from posts
 				-- Select all the titles AND authors from posts
+				-- Select only the first two records from users
+				
 
 	 2) CHANGE A VALUE
 			-- change Caesar's last name to be Castaneda and the email to ccastaneda@latinschool.org
