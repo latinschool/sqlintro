@@ -1,5 +1,10 @@
 # SQL INTRO
+Fork & Clone this repository
 
+Look at the prewritten code and understand it. 
+Then, continue with the steps below to write your own sql queries! 
+
+When this exercise is completed, git add, commit and push your changes. Exercise is due at the end of class.
 
 ## TO DO:
 #### Use this site as a resource: http://zetcode.com/db/sqlite/datamanipulation/
