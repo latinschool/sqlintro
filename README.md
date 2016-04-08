@@ -1,6 +1,10 @@
 # SQL INTRO
 Fork & Clone this repository
 
+After file is cloned, cd into the project directory then run this command in terminal:
+
+	sqlite3 firstdb.db < testdb.mdf
+
 Carefully look at the prewritten code and make sense of it before moving on. Research anything that does not make sense. 
 
 Then, continue with the steps below to write your own sql queries! 
