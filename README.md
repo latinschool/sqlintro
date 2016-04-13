@@ -16,6 +16,9 @@ When this exercise is completed, git add, commit and push your changes. Exercise
 ## TO DO:
 #### Use this site as a resource: http://zetcode.com/db/sqlite/datamanipulation/
 
+	 0) ADD POST TABLE
+				-- Fields: ID, title, author, content 
+
 	 0) DATA INSERTION
 				-- Add at least 9 more records
 				-- 4 to the users & 5 to the posts
